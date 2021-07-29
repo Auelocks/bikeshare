@@ -6,7 +6,7 @@ Citi Bike is a bike share program in New York City (NYC) designed to provide a q
 
 This analysis will utilize data from the Citi Bike program in NYC, New York to see if it is worthwhile to invest in a similar program in Des Moines, Iowa.  The data from this study is extracted from public files released through [Citi Bike NYC](https://www.citibikenyc.com/system-data) and is focused on data from August 2019. 
 
-Data visualizations can be viewed via Tableau public: <https://public.tableau.com/app/profile/noelle.garza/viz/NYCCitibikeStory_16274229283040/NYCCitibikeAnalysis>
+Data visualizations can be viewed via [Tableau Public for Noelle Garza](https://public.tableau.com/app/profile/noelle.garza/viz/NYCCitibikeStory_16274229283040/NYCCitibikeAnalysis)
 
 ## Results
 
